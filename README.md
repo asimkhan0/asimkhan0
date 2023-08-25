@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Vue, React, Node**
 
-- 📫 How to reach me **khanasim034@gmail.com**
+- 📫 How to reach me **works.asimkhan@gmail.com**
 
 <p align="center">
   <a href="https://twitter.com/asimkhan034" target="_blank"><img src="https://img.shields.io/twitter/follow/asimkhan034?logo=twitter&style=for-the-badge" alt="asimkhan034" /></a>
