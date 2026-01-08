@@ -2,7 +2,7 @@
   
 # Hey there! I'm Asim 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Fullstack+Engineer+%F0%9F%9A%80;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
